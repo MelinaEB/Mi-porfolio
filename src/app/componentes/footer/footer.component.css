@@ -1,0 +1,68 @@
+.container-fluid {
+    background: #414141;
+    padding: 60px 0 30px 0;
+    margin: auto;
+    overflow: hidden;
+}
+
+.linea {
+    margin-left: 5%;
+    margin-right: 5%;
+    border-bottom: 1px #ccc solid;
+}
+
+.content-foo h4 {
+    color: #fff;
+    border-bottom: 3px solid #945dd8;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.content-foo p {
+    color: #ccc;
+}
+
+.titulo-final {
+    text-align: center;
+    font-size: 24px;
+    margin: 20px 0 0 0;
+    color: #9e9797;
+}
+
+.nosotros {
+    text-align: center;
+    font-size: 10px;
+    margin-top: 2%;
+}
+
+a {
+    color: #945dd8;
+}
+
+.icon {
+    height: 1%;
+}
+
+span {
+    color: transparent;
+    border-bottom: none;
+}
+
+@media (max-width: 970px) {
+    .tamaño {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 793px) {
+    .tamaño {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 766px) {
+    .tamaño {
+        font-size: 15px;
+    }
+}

@@ -1,0 +1,46 @@
+.container-fluid {
+    background-color: #4a2780;
+    background: linear-gradient(to bottom, #350d72, #8e5dd8);
+    opacity: .9;
+    padding-bottom: 1.2%;
+}
+
+.principal {
+    color: #FFF;
+    font-size: 60px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Great Vibes', cursive;
+    padding: 1.2%;
+}
+
+.prin {
+    padding-top: 3%;
+}
+
+.seg {
+    padding-top: 3%;
+}
+
+.nav {
+    background-color: rgb(184, 184, 212)
+}
+
+.adecco {
+    height: 25px;
+}
+
+b {
+    color: transparent;
+}
+
+.accordion-body {
+    background-color: rgba(234, 227, 227, 0.783);
+    color: #4a2780;
+}
+
+@media(max-width:280px) {
+    .principal {
+        text-align: center;
+        font-size: 50px;
+    }
+}

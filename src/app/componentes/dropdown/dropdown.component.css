@@ -1,0 +1,36 @@
+.dropdown-item {
+    color: #fff;
+}
+
+.boton:hover {
+    background-color: #9b7acd;
+}
+
+.boton:focus {
+    background-color: #4a2780;
+    background: linear-gradient(to bottom, #4a2780, #8e5dd8);
+}
+
+.container-fluid {
+    margin-top: 20%;
+}
+
+img {
+    min-width: 40px;
+    min-height: 30px;
+}
+
+.dropdown-menu {
+    background-color: #4a2780;
+    background: linear-gradient(to bottom, #4a2780, #8e5dd8);
+}
+
+.dropdown-item:hover {
+    background-color: #8e5dd8;
+}
+
+@media (max-width: 573px) {
+    .boton {
+        margin-bottom: 25px;
+    }
+}

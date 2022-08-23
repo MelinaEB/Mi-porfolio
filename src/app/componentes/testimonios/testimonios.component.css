@@ -1,0 +1,33 @@
+.container-fluid {
+    padding: 10px;
+    padding-top: 30px;
+    background-color: #4a2780;
+    background: linear-gradient(to bottom, #8e5dd8, #a17fd3);
+}
+
+.bordec {
+    height: 100%;
+    padding: 5px;
+    border: 2px solid rgb(51, 68, 255);
+    border-radius: 10px;
+    margin: 4px;
+    box-shadow: -18px -18px 9px -1px rgba(0, 0, 0, 0.75);
+    background-color: rgb(210, 209, 186);
+}
+
+.principal {
+    color: #FFF;
+    font-size: 60px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Great Vibes', cursive;
+    padding: 1.2%;
+}
+
+h4 {
+    text-align: center;
+}
+
+p {
+    padding: 10px;
+    font-size: 16px;
+}

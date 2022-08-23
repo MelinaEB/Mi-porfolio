@@ -1,0 +1,15 @@
+.container-fluid {
+    background: linear-gradient(to bottom, #4a2780, #8e5dd8);
+}
+
+.hambur {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.iconos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
